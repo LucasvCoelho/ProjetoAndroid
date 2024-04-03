@@ -275,6 +275,22 @@ main{
        text-shadow: 1px 1px 3px black;
        }
 
+       a#link {
+          text-decoration: none;
+          color: white;
+
+
+
+        }
+
+        a#link:hover { 
+         color: aliceblue;
+         text-decoration: underline;
+
+
+
+        }
+
        
 
                       
